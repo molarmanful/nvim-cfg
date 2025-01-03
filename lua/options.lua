@@ -7,7 +7,6 @@ local cmd = vim.cmd
 local filetype = vim.filetype
 
 g.vim_markdown_folding_disabled = 1
-g.editorconfig = false
 opt.scrolloff = 999
 opt.whichwrap = 'b,s'
 opt.wrap = false
