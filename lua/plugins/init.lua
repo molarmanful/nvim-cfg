@@ -313,4 +313,8 @@ return {
       disable_frontmatter = true,
     },
   },
+
+  {
+    'nmac427/guess-indent.nvim',
+  },
 }
